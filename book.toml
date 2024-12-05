@@ -1,0 +1,12 @@
+[book]
+title = "Tutorial HTML"
+authors = ["Santos Romero"]
+description = "Tutorial completo de HTML W3Schools en español"
+language = "es"
+src = "src"
+
+[rust]
+edition = "2024"
+
+[output.html]
+additional_css = ["src/css/custom.css"]
